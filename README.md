@@ -46,8 +46,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AWS-DevOps-shubh&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWS-DevOps-shubh&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHUBHAM-TAYDE&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBHAM-TAYDE&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
