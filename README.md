@@ -9,7 +9,7 @@
 - 🌱 Continually learning about **Advanced Kubernetes, Prometheus, and GitOps**
 - ⚙️ Working with tools such as **EC2, Docker, Jenkins, and EKS**
 - 💬 Ask me about: `CI/CD`, `Cloud Computing`, `Containerization`, `DevOps Best Practices`
-- 📫 Reach me: **devshubh2204@gmail.com**
+- 📫 Reach me: **tayde.s.shubham@gmail.com**
 
 ---
 
