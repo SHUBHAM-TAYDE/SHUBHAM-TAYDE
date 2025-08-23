@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shubham Tayde</h1>
-<h3 align="center">🚀 DevOps Engineer | AWS | Docker | Kubernetes | Jenkins | Terraform</h3>
+<h3 align="center">🚀 DevOps Engineer | AWS, Kubernetes, Terraform, Jenkins | Driving 99.9% uptime & 80% faster deployments | Hackathon Award-Winner 🏆</h3>
 
 ---
 
