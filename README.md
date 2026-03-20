@@ -60,7 +60,7 @@ I am a **DevOps Engineer** focused on driving **99.9% uptime** and **80% faster 
 
 ### 🌐 Let’s Build Together
 <p align="left">
-  <a href="https://www.linkedin.com/in/shubham-tayde/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shubham-tayde2204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@TechTadkaWithShubham"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
